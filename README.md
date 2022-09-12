@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, 
+I am from Dubnica nad Váhom, Slovakia. I am currently working as software developer for Bel Power Solutions. I am currently learning computer security and networking. I am mostly coding in C and python
+
+Most of my repositories are my school assignments
 
 <!--
 **RomanKuruc/RomanKuruc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
