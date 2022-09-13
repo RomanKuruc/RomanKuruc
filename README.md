@@ -1,5 +1,5 @@
-# <p align="center">Hi there 👋,
-I am from Dubnica nad Váhom, Slovakia and I am working as software developer. My main job is development of software for microprocessors in C. I am currently learning computer security and networking. I am mostly coding in C and python</p>
+# <p align="center">Hi there 👋,</p>
+<p align="center">I am from Dubnica nad Váhom, Slovakia and I am working as software developer. My main job is development of software for microprocessors in C. I am currently learning computer security and networking. I am mostly coding in C and python</p>
 <p align="center">Most of my repositories are my school assignments<p>
 
 <!--
