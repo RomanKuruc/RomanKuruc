@@ -1,5 +1,5 @@
 # <p align="center">Hi there 👋,</p>
-<p align="center">I am currently working as software design developer for Bel Power Solutions. My main job is development of software for microcontrollers. In my free time I am learning about cybersecurity and networking. My main programming languages are C/C++ /p>
+<p align="center">I am currently working as software design developer for embedded systems in Bel Power Solutions. In my free time I am learning about cybersecurity and networking. My main programming languages are C/C++ /p>
 <p align="center">Most of my repositories are my school assignments<p>
 
 <!--
