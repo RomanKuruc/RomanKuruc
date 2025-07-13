@@ -1,5 +1,5 @@
 # <p align="center">Hi there 👋,</p>
-<p align="center">I am currently studying at University of Žilina. My field of study is communication and information technologies. In my free time I am learning about cybersecurity and networking. My main programming languages are C and python</p>
+<p align="center">I am student of University of Žilina, in field of study Communication and Information Technologies. I am currently learning about various topics of technologie such as computer vision, convolutional neural networks, model detection etc.</p>
 <p align="center">Most of my repositories are my school assignments<p>
 
 <!--
